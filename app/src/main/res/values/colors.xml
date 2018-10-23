@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color> <!-- 黑色 -->
+    <color name="colorCroci">#F69729</color>
+
+    <color name="color_red">#ffDF0D30</color>
+    <color name="color_golden_yellow">#ffF69729</color>
+    <color name="color_light_yellow">#ffD4D03B</color>
+    <color name="color_light_green">#ff3AEC26</color>
+    <color name="color_light_cyan">#ff5AFFEF</color>
+    <color name="transparent">#00000000</color><!-- 透明 -->
+    <color name="bright_blue">#00acff</color>
+    <color name="cool_red">#E40B28</color>
+    <color name="cool_orange">#D6CF39</color>
+    <color name="cool_light_green">#3AEB29</color>
+    <color name="cool_light_blue">#5AFFEE</color>
+    <color name="light_blue">#AA0000EE</color>
+
+    <array name="colorArray">
+        <item>@color/color_red</item>
+        <item>@color/color_golden_yellow</item>
+        <item>@color/color_light_yellow</item>
+        <item>@color/color_light_green</item>
+        <item>@color/color_light_cyan</item>
+    </array>
+
+</resources>

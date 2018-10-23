@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">统计View</string>
+    <string name="cool_level">冷热级别</string>
+    <string name="ten_men">100人</string>
+    <string name="twenty_men">200人</string>
+    <string name="sixty_men">300人</string>
+    <string name="eighty_men">400人</string>
+    <string name="one_hundred_men">500人</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Statistics_View">
+        <!--圆形的半径-->
+        <attr name="radian" format="integer" />
+        <!--弧形的宽度-->
+        <attr name="strokeWidth" format="integer" />
+        <!--指针的宽度-->
+        <attr name="pointerWidth" format="integer" />
+        <!--动画执行时间-->
+        <attr name="sv_duration" format="integer" />
+        <!--指针颜色-->
+        <attr name="pointerColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="NumberRunTextView">
+        <!--执行时间-->
+        <attr name="nt_duration" format="integer" />
+    </declare-styleable>
+</resources>
